@@ -1,0 +1,5 @@
+{
+  "name": "Medidor de Combustível Pro",
+  "description": "Uma ferramenta profissional para conversão precisa de medições de régua (cm) em volume de combustível (litros) para tanques de 15.000L e 30.000L, baseada em tabelas técnicas de postos de combustível.",
+  "requestFramePermissions": []
+}
